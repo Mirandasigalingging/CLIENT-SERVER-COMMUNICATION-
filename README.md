@@ -5,6 +5,7 @@ Miranda BM Sigalingging (320220401015)
 Sufi Naylil Karomah (320220401024)
 
 **DESKRIPSI**
+
 Mengimplementasikan sistem komunikasi client-server dengan fitur load balancing. Berikut deskripsi singkat untuk setiap bagian:
 
 1. Client:
